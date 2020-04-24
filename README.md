@@ -107,5 +107,5 @@ Throughout the course you will work with notebooks that contain various material
 
 
 ### Get started - test your environment
-* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook (`test-notebooks/0.0-test-installation.ipynb`) to check that your environment is OK.<br>
+* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK.<br>
 

@@ -29,6 +29,7 @@ completion of the course.**
 
 ```
 Monday, August 10
+
 08:30-09:15 Why are computational skills needed in biomedicine - relevance to uncovering
             disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
 09:15-10:40 Bioimage informatics and machine learning (Jussi Tohka, University of Eastern
@@ -40,7 +41,9 @@ Monday, August 10
            (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 14:45-18:00 Student work with group project
 
+
 Tuesday, August 11
+
 08:30-12:00 Workshop - image data analysis, e.g. using unsupervised classification to analyse
             brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 12:00-13:00 Lunch
@@ -52,7 +55,9 @@ Tuesday, August 11
             Stockholm)
 17:30-20:00 Student work with group project
 
+
 Wednesday, August 12
+
 08:30-12:00 Follow up discussions on ethics workshop (Niklas Juth, Karolinska Institutet,
             Stockholm)
 12:00-13:00 Lunch
@@ -60,7 +65,9 @@ Wednesday, August 12
             MNIST, fashion-MNIST (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 14:00-18:00 Student work with group project
 
+
 Thursday, August 13
+
 08:30-10:25 Deep learning models for brain tumor segmentation (TBA)
 10:30-12:00 EuroBioimaging (PET brain tumor) (Juhani Knuuti/Pasi Kankaanpää, University of
             Turku)
@@ -71,7 +78,9 @@ Thursday, August 13
             Aiforia, Helsinki)
 15:30-18:00 Student work with group project
 
+
 Friday, August 14
+
 08:30-12:00 Student presentations with feedback
 ```
 

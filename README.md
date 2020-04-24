@@ -1,16 +1,14 @@
-# NordBioMedNet Summer School 2020: Computational Biomedicine in Brain Tumors
+# NordBioMedNet Summer School 2020: Computational Biomedicine - Imaging, machine learning and precision medicine
 
-### This year the course will virtual (not on Seili) due to the current situation with COVID-19.
+![Seili-2020 image](./assets/Seili-2020.png)
+
 
 NordBioMedNet Summer School 2020 is part of the “Open Educational Resources in Computational
-Biomedicine (OERCompBiomed) project conducted by the NordBioMed.org and funded by Erasmus+.
+Biomedicine (OERCompBiomed) project conducted by the [NordBioMed.org](https://nordbiomed.org/news/summer-school-2019) and funded by [Erasmus+](http://ec.europa.eu/programmes/erasmus-plus/projects/eplus-project-details/#project/bc4e0bdb-aa64-4d5c-a7f2-26d68ec36647)project conducted by the NordBioMed.org and funded by Erasmus+.
 
-NordBioMed is a collaborative network in the field of Biomedicine between the Universities of Turku,
-Eastern Finland (Kuopio), Bergen, Odense and Karolinska Institutet. The network was originally
-formed in 2013 to strengthen the individual biomedical teaching programs within the component
-universities and make them internationally more comparative by providing complementary activities
-from the partner universities. The network supports both student and teacher mobility, organisers
-intensive courses and develop virtual online teaching.
+NordBioMed is a collaborative network in the field of Biomedicine between the Universities of Turku, Eastern Finland (Kuopio), Bergen, Odense and Karolinska Institutet. The network was originally formed in 2013 to strengthen the individual biomedical teaching programs within the component universities and make them internationally more comparative by providing complementary activities from the partner universities. The network supports both student and teacher mobility, organisers intensive courses and develop virtual online teaching.
+
+**The topic for the 2020 Summer school is computational biomedicine in brain tumours. This year the course will virtual due to the current situation with COVID-19.**
 
 
 
@@ -38,7 +36,7 @@ Monday, August 10
             Turku
 12:15-13:15 Lunch
 13:15-14:40 Review of pre-assignments - Jupyter notebooks on tools and data repositories
-           (Arvid Lundervold, Peder Lillebostad, University of Bergen)
+            (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 14:45-18:00 Student work with group project
 
 
@@ -85,3 +83,9 @@ Friday, August 14
 ```
 
 **Report from group project to be handed in end of September**
+
+
+__________________________________________________________________________<br>
+
+SPONSORS<br>
+<img src="./assets/logos.png" width="500">

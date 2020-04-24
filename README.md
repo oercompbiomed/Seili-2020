@@ -16,58 +16,59 @@ intensive courses and develop virtual online teaching.
 
 ## Summer School Programme (preliminary)
 
-The Summer School has its start in beginning of summer and finish in end of September.
+**The Summer School has its start in beginning of summer and finish in end of September.
 Exact dates for start and finish is not yet set. Before the week in August students go
 through material on their own. During the course week online lectures are given with
 possibilities to interact with teachers. Important part during this week is group project
 where students from the participating universities form groups. After the course week
 student groups continue to work with the project and deliver a report in the end of
-September.
+September.**
 
-Students are signed in at University of Turku from where 5 credit points are given upon
-completion of the course.
+**Students are signed in at University of Turku from where 5 credit points are given upon
+completion of the course.**
 
 ```
 Monday, August 10
 08:30-09:15 Why are computational skills needed in biomedicine - relevance to uncovering
-disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
+            disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
 09:15-10:40 Bioimage informatics and machine learning (Jussi Tohka, University of Eastern
-Finland, Kuopio)
+            Finland, Kuopio)
 10:45-12:10 Brain cancer – clinical aspects (Heikki Minn, University and University Hospital,
-Turku
+            Turku
 12:15-13:15 Lunch
 13:15-14:40 Review of pre-assignments - Jupyter notebooks on tools and data repositories
-(Arvid Lundervold, Peder Lillebostad, University of Bergen)
+           (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 14:45-18:00 Student work with group project
+
 Tuesday, August 11
 08:30-12:00 Workshop - image data analysis, e.g. using unsupervised classification to analyse
-brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
+            brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 12:00-13:00 Lunch
 13:00-14:25 Glioblastoma – molecular mechanisms (Maria Gardberg, University and University
-Hospital, Turku
+            Hospital, Turku
 14:30-15:25 Ethics and genetic screening (with a focus on cancer) (Niklas Juth, Karolinska
-Institutet, Stockholm)
+            Institutet, Stockholm)
 15:30-17:30 Workshop - Ethics and genetic screening (Niklas Juth, Karolinska Institutet,
-Stockholm)
+            Stockholm)
 17:30-20:00 Student work with group project
 
 Wednesday, August 12
 08:30-12:00 Follow up discussions on ethics workshop (Niklas Juth, Karolinska Institutet,
-Stockholm)
+            Stockholm)
 12:00-13:00 Lunch
 13:00-14:00 Workshop – image data analysis cont. Deep Learning with Tensorflow 2/Keras and
-MNIST, fashion-MNIST (Arvid Lundervold, Peder Lillebostad, University of Bergen)
+            MNIST, fashion-MNIST (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 14:00-18:00 Student work with group project
 
 Thursday, August 13
 08:30-10:25 Deep learning models for brain tumor segmentation (TBA)
 10:30-12:00 EuroBioimaging (PET brain tumor) (Juhani Knuuti/Pasi Kankaanpää, University of
-Turku)
+            Turku)
 12:00-13:00 Lunch
 13:00-14:25 Career opportunities outside academia - companies in bioimage informatics (Juha
-Rantala, Misvik, Turku)
+            Rantala, Misvik, Turku)
 14:30-15:30 Career opportunities outside academia - companies in bioimage informatics (TBA,
-Aiforia, Helsinki)
+            Aiforia, Helsinki)
 15:30-18:00 Student work with group project
 
 Friday, August 14

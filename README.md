@@ -117,6 +117,10 @@ Throughout the course you will work with notebooks that contain various material
 ### Pre-course material on OpenEdx
 Here is the Python, R and Friends part of our OpenEdx course transformed into a Rise course for the purpose of being pre-course material for the online Summer School: https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
+### Introductory lecture
+
+Tentative: *Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics*
+
 __________________________________________________________________________<br>
 
 ## Project work

@@ -14,16 +14,32 @@ NordBioMed is a collaborative network in the field of Biomedicine between the Un
 
 ## Summer School Programme (preliminary)
 
-**The Summer School has its start in beginning of summer and finish in end of September.
-Exact dates for start and finish is not yet set. Before the week in August students go
-through material on their own. During the course week online lectures are given with
-possibilities to interact with teachers. Important part during this week is group project
-where students from the participating universities form groups. After the course week
-student groups continue to work with the project and deliver a report in the end of
-September.**
+**The Summer School has its start in June and finish in end of September.
+Exact dates for start and finish is not yet set. In June a package of pre-
+assignments will be sent out to participants and project groups will be
+formed – one student from each university in each group. The week
+before the summer school starts in August introductory lecture will be
+held and the first start-up work shop. During the course week online
+lectures are given with possibilities to interact with teachers. Group work
+is scheduled to afternoons between 12.00 – 18.00 (CET) for most of the
+days – estimated at least 4h/day is needed. After the course week student
+groups continue to work with the project and deliver a report in the end
+of September.
 
-**Students are signed in at University of Turku from where 5 credit points are given upon
-completion of the course.**
+**Students are signed in at University of Turku from where 5 credit points
+are given upon completion of the course.**
+
+
+### Pre-assignments:
+**Bioethics (web-based) containing the following parts:**<br>
+1. The basic concepts, theories, and principles in biomedical ethics
+2. Research ethics for biomedical analytics.
+
+**Python, R and friends:**<br>
+a short introduction to programming and how to prepare yourself and
+your computer for the computational exercises at the Summer School.
+
+
 
 ```
 Monday, August 10

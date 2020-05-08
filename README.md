@@ -51,9 +51,9 @@ disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
 
 #### Week 33
 **NB – time given is Central European Time**<br>
-```
-Monday, August 10
 
+**Monday, August 10**
+```
 09:00 - 09:45   Bioimage informatics and machine learning 
                 (Jussi Tohka, University of Eastern Finland, Kuopio)
 
@@ -64,31 +64,28 @@ Monday, August 10
                 University Hospital, Turku
 
 Afternoon – project work
+```
 
-
-
-Tuesday, August 11
-
+**Tuesday, August 11**
+```
 09:00 - 12:00   Workshop - image data analysis, e.g. using unsupervised classification to analyse 
                 brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 
 Afternoon – project work
+```
 
-
-
-Wednesday, August 12
-
+**Wednesday, August 12**
+```
 09:00 - 12:00   Bioethics including workshop (Niklas Juth, Karolinska Institutet, Stockholm)
 
 13:00 - 14:00   Workshop – image data analysis cont.  Deep Learning with Tensorflow 2/Keras 
                 nd MNIST, fashion-MNIST  (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 
 Afternoon – project work
+```
 
-
-
-Thursday, August 13
-
+**Thursday, August 13**
+```
 09:00 – 09:45   EuroBioimaging (PET brain tumor) (Juhani Knuuti, University of Turku)
 
 10:00 - 10:45   Career opportunities outside academia - companies 
@@ -98,11 +95,11 @@ Thursday, August 13
                 in bioimage informatics (Darshan Kumar, Aiforia, Helsinki)
 
 Afternoon – project work
+```
 
 
-
-Friday, August 14
-
+**Friday, August 14**
+```
 08:30 - 12:00   Student presentations with feedback
 ```
 

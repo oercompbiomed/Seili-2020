@@ -60,10 +60,10 @@ NB – time given is Central European Time
                 (Jussi Tohka, University of Eastern Finland, Kuopio)
 
 10:00 - 10:45   Brain cancer – clinical aspects (Heikki Minn, University and 
-                University Hospital, Turku
+                University Hospital, Turku)
 
 11:00 - 11:45   Glioblastoma – molecular mechanisms (Maria Gardberg, University and 
-                University Hospital, Turku
+                University Hospital, Turku)
 
 Afternoon – project work
 ```

@@ -92,29 +92,38 @@ SPONSORS<br>
 
 __________________________________________________________________________<br>
 
-# Expected "work load", pre-assignment, project work, and final report
+# "Work load" / pre-assignment / project work / final report
 
 ## Work load
 
-## Preassignment - Setting up your system (preparation to the course)
+## Preassignment 
+
+### Setting up your system (preparation to the course)
 
 **Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
 
-#### Browser
+##### Browser
 - Display and functionality might differ between browsers - we recommend using Google [Chrome](https://www.google.com/chrome) on all platforms
 
-### Notebooks
+#### Notebooks
 The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
-#### IMPORTANT (for making your own notebooks for coding experiments without conflict)
+##### IMPORTANT (for making your own notebooks for coding experiments without conflict)
 Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `**git pull**` (things can have changed).
 
 
-### Get started - test your environment
+#### Get started - test your environment
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK.<br>
 
-### Preliminary (TO BE TESTED)
+#### Preliminary (material on OpenEdx)
 Here is the Python, R and Friends part of our OpenEdx course transformed into a Rise course for the purpose of being pre-course material for the online Summer School: https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
+__________________________________________________________________________<br>
 
 ## Project work
+
+
+__________________________________________________________________________<br>
+
+## Final report
+

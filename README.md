@@ -36,15 +36,17 @@ are given upon completion of the course.**
 2. Research ethics for biomedical analytics.
 
 **Python, R and friends:**<br>
-a short introduction to programming and how to prepare yourself and
-your computer for the computational exercises at the Summer School.
+A short introduction to programming and how to prepare yourself and
+your computer for the computational exercises at the Summer School.<br>
+ https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
+
 
 
 #### Week 32 (exact date not yet set)
 - Why are computational skills needed in biomedicine - relevance to uncovering
 disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
 
-- Review of pre-assignments - Jupyter notebooks on tools and data repositories
+- Review of pre-assignments - Jupyter notebooks, tools and data repositories
 (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 
 - Team building activities (Karin Hjernø, University of Southern Denmark)
@@ -134,13 +136,6 @@ Throughout the course you will work with notebooks that contain various material
 #### Get started - test your environment
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK.<br>
 
-
-### Pre-course material on OpenEdx
-Here is the Python, R and Friends part of our OpenEdx course transformed into a Rise course for the purpose of being pre-course material for the online Summer School: https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
-
-### Introductory lecture
-
-Tentative: *Why are computational skills needed in biomedicine - relevance to uncovering disease mechanisms and for diagnostics*
 
 __________________________________________________________________________<br>
 

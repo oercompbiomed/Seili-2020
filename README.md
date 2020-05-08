@@ -26,7 +26,7 @@ days – estimated at least 4h/day is needed. After the course week student
 groups continue to work with the project and deliver a report in the end
 of September.
 
-**Students are signed in at University of Turku from where 5 credit points
+**Students are signed in at University of Turku from where 5 credit points (ECTS)
 are given upon completion of the course.**
 
 

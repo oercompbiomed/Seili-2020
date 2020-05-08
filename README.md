@@ -49,59 +49,54 @@ disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
 
 - Team building activities (Karin Hjernø, University of Southern Denmark)
 
-
-```
+#### Week 33
 **NB – time given is Central European Time**<br>
-
+```
 Monday, August 10
 
-08:30-09:15 Why are computational skills needed in biomedicine - relevance to uncovering
-            disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
-09:15-10:40 Bioimage informatics and machine learning (Jussi Tohka, University of Eastern
-            Finland, Kuopio)
-10:45-12:10 Brain cancer – clinical aspects (Heikki Minn, University and University Hospital,
-            Turku
-12:15-13:15 Lunch
-13:15-14:40 Review of pre-assignments - Jupyter notebooks on tools and data repositories
-            (Arvid Lundervold, Peder Lillebostad, University of Bergen)
-14:45-18:00 Student work with group project
+09:00-9:45    Bioimage informatics and machine learning (Jussi Tohka, University of Eastern
+                          Finland, Kuopio)
+
+10:00-10:45   Brain cancer – clinical aspects (Heikki Minn, University and University Hospital, 
+                         Turku
+
+11:00-11:45   Glioblastoma – molecular mechanisms (Maria Gardberg, University and University
+                           Hospital, Turku
+
+Afternoon – project work
+
 
 
 Tuesday, August 11
 
-08:30-12:00 Workshop - image data analysis, e.g. using unsupervised classification to analyse
-            brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
-12:00-13:00 Lunch
-13:00-14:25 Glioblastoma – molecular mechanisms (Maria Gardberg, University and University
-            Hospital, Turku
-14:30-15:25 Ethics and genetic screening (with a focus on cancer) (Niklas Juth, Karolinska
-            Institutet, Stockholm)
-15:30-17:30 Workshop - Ethics and genetic screening (Niklas Juth, Karolinska Institutet,
-            Stockholm)
-17:30-20:00 Student work with group project
+09:00 -12:00    Workshop - image data analysis, e.g. using unsupervised classification to analyse 
+                          brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
+
+Afternoon – project work
+
 
 
 Wednesday, August 12
 
-08:30-12:00 Follow up discussions on ethics workshop (Niklas Juth, Karolinska Institutet,
-            Stockholm)
-12:00-13:00 Lunch
-13:00-14:00 Workshop – image data analysis cont. Deep Learning with Tensorflow 2/Keras and
-            MNIST, fashion-MNIST (Arvid Lundervold, Peder Lillebostad, University of Bergen)
-14:00-18:00 Student work with group project
+09:00-12:00    Bioethics including workshop (Niklas Juth, Karolinska Institutet, Stockholm)
+
+13:00-14:00    Workshop – image data analysis cont.  Deep Learning with Tensorflow 2/Keras 
+               and MNIST, fashion-MNIST  (Arvid Lundervold, Peder Lillebostad, University of Bergen)
+
+Afternoon – project work
+
 
 
 Thursday, August 13
 
-08:30-10:25 Deep learning models for brain tumor segmentation (TBA)
-10:30-12:00 EuroBioimaging (PET brain tumor) (Juhani Knuuti/Pasi Kankaanpää, University of
-            Turku)
-12:00-13:00 Lunch
-13:00-14:25 Career opportunities outside academia - companies in bioimage informatics (Juha
-            Rantala, Misvik, Turku)
-14:30-15:30 Career opportunities outside academia - companies in bioimage informatics (TBA,
-            Aiforia, Helsinki)
-15:30-18:00 Student work with group project
+09:00 – 9:45    EuroBioimaging (PET brain tumor) (Juhani Knuuti, University of Turku)
+
+10:00-10:45     Career opportunities outside academia - companies in bioimage informatics (Juha Rantala, Misvik, Turku)
+
+11:00 – 11:45   Career opportunities outside academia - companies in bioimage informatics (Darshan Kumar, Aiforia, Helsinki)
+
+Afternoon – project work
+
 
 
 Friday, August 14

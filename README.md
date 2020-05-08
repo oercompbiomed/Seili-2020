@@ -33,12 +33,11 @@ are given upon completion of the course.**
 ### Pre-assignments:
 **Bioethics (web-based) containing the following parts:**<br>
 1. The basic concepts, theories, and principles in biomedical ethics
-2. Research ethics for biomedical analytics.
+2. Research ethics for biomedical analytics
 
 **Python, R and friends:**<br>
 A short introduction to programming and how to prepare yourself and
-your computer for the computational exercises at the Summer School.<br>
- https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
+your computer for the computational exercises at the Summer School https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 
 

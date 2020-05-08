@@ -87,16 +87,12 @@ Friday, August 14
 
 __________________________________________________________________________<br>
 
-SPONSORS<br>
-<img src="./assets/logos.png" width="500">
-
-__________________________________________________________________________<br>
 
 # "Work load" / pre-assignment / project work / final report
 
 ## Work load
 
-The workload reflects **5 ECTS**, and include (**i**) a pre-course period (pre-assignment), (**ii**) the one week lecture and instruction period August 10-14, and (**iii**) the post-course period for (group-wise) writing the project report. 
+The workload reflects **5 ECTS**, and include (**i**) a pre-course period (pre-assignment), (**ii**) the one week lecture and instruction period August 10-14, and (**iii**) the post-course period for (group-wise) writing the project report with deadline in September.
 
 ## Pre-assignment 
 
@@ -130,3 +126,10 @@ __________________________________________________________________________<br>
 
 ## Final report
 
+
+__________________________________________________________________________<br>
+
+SPONSORS<br>
+<img src="./assets/logos.png" width="500">
+
+__________________________________________________________________________<br>

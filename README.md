@@ -54,14 +54,14 @@ disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
 ```
 Monday, August 10
 
-09:00-9:45    Bioimage informatics and machine learning (Jussi Tohka, University of Eastern
-                          Finland, Kuopio)
+09:00 - 09:45   Bioimage informatics and machine learning 
+                (Jussi Tohka, University of Eastern Finland, Kuopio)
 
-10:00-10:45   Brain cancer – clinical aspects (Heikki Minn, University and University Hospital, 
-                         Turku
+10:00 - 10:45   Brain cancer – clinical aspects (Heikki Minn, University and 
+                University Hospital, Turku
 
-11:00-11:45   Glioblastoma – molecular mechanisms (Maria Gardberg, University and University
-                           Hospital, Turku
+11:00 - 11:45   Glioblastoma – molecular mechanisms (Maria Gardberg, University and 
+                University Hospital, Turku
 
 Afternoon – project work
 
@@ -69,8 +69,8 @@ Afternoon – project work
 
 Tuesday, August 11
 
-09:00 -12:00    Workshop - image data analysis, e.g. using unsupervised classification to analyse 
-                          brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
+09:00 - 12:00   Workshop - image data analysis, e.g. using unsupervised classification to analyse 
+                brain cancer (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 
 Afternoon – project work
 
@@ -78,10 +78,10 @@ Afternoon – project work
 
 Wednesday, August 12
 
-09:00-12:00    Bioethics including workshop (Niklas Juth, Karolinska Institutet, Stockholm)
+09:00 - 12:00   Bioethics including workshop (Niklas Juth, Karolinska Institutet, Stockholm)
 
-13:00-14:00    Workshop – image data analysis cont.  Deep Learning with Tensorflow 2/Keras 
-               and MNIST, fashion-MNIST  (Arvid Lundervold, Peder Lillebostad, University of Bergen)
+13:00 - 14:00   Workshop – image data analysis cont.  Deep Learning with Tensorflow 2/Keras 
+                nd MNIST, fashion-MNIST  (Arvid Lundervold, Peder Lillebostad, University of Bergen)
 
 Afternoon – project work
 
@@ -89,11 +89,13 @@ Afternoon – project work
 
 Thursday, August 13
 
-09:00 – 9:45    EuroBioimaging (PET brain tumor) (Juhani Knuuti, University of Turku)
+09:00 – 09:45   EuroBioimaging (PET brain tumor) (Juhani Knuuti, University of Turku)
 
-10:00-10:45     Career opportunities outside academia - companies in bioimage informatics (Juha Rantala, Misvik, Turku)
+10:00 - 10:45   Career opportunities outside academia - companies 
+                in bioimage informatics (Juha Rantala, Misvik, Turku)
 
-11:00 – 11:45   Career opportunities outside academia - companies in bioimage informatics (Darshan Kumar, Aiforia, Helsinki)
+11:00 – 11:45   Career opportunities outside academia - companies 
+                in bioimage informatics (Darshan Kumar, Aiforia, Helsinki)
 
 Afternoon – project work
 
@@ -101,7 +103,7 @@ Afternoon – project work
 
 Friday, August 14
 
-08:30-12:00 Student presentations with feedback
+08:30 - 12:00   Student presentations with feedback
 ```
 
 **Report from group project to be handed in end of September**

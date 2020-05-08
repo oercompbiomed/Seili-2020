@@ -96,7 +96,9 @@ __________________________________________________________________________<br>
 
 ## Work load
 
-## Preassignment 
+The workload reflects **5 ECTS**, and include (**i**) a pre-course period (pre-assignment), (**ii**) the one week lecture and instruction period August 10-14, and (**iii**) the post-course period for (group-wise) writing the project report. 
+
+## Pre-assignment 
 
 ### Setting up your system (preparation to the course)
 
@@ -115,7 +117,8 @@ Throughout the course you will work with notebooks that contain various material
 #### Get started - test your environment
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK.<br>
 
-#### Preliminary (material on OpenEdx)
+
+### Pre-course material on OpenEdx
 Here is the Python, R and Friends part of our OpenEdx course transformed into a Rise course for the purpose of being pre-course material for the online Summer School: https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 __________________________________________________________________________<br>

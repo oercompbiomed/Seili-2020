@@ -92,7 +92,11 @@ SPONSORS<br>
 
 __________________________________________________________________________<br>
 
-## Setting up your system (preparation to the course)
+# Expected "work load", pre-assignment, project work, and final report
+
+## Work load
+
+## Preassignment - Setting up your system (preparation to the course)
 
 **Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
 
@@ -111,3 +115,6 @@ Throughout the course you will work with notebooks that contain various material
 
 ### Preliminary (TO BE TESTED)
 Here is the Python, R and Friends part of our OpenEdx course transformed into a Rise course for the purpose of being pre-course material for the online Summer School: https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
+
+
+## Project work

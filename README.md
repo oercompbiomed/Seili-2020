@@ -50,9 +50,9 @@ disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
 - Team building activities (Karin Hjernø, University of Southern Denmark)
 
 #### Week 33
-**NB – time given is Central European Time**<br>
 
-**Monday, August 10**
+**Monday, August 10**<br>
+NB – time given is Central European Time
 ```
 09:00 - 09:45   Bioimage informatics and machine learning 
                 (Jussi Tohka, University of Eastern Finland, Kuopio)

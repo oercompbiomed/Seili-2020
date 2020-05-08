@@ -40,8 +40,19 @@ a short introduction to programming and how to prepare yourself and
 your computer for the computational exercises at the Summer School.
 
 
+#### Week 32 (exact date not yet set)
+- Why are computational skills needed in biomedicine - relevance to uncovering
+disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
+
+- Review of pre-assignments - Jupyter notebooks on tools and data repositories
+(Arvid Lundervold, Peder Lillebostad, University of Bergen)
+
+- Team building activities (Karin Hjernø, University of Southern Denmark)
+
 
 ```
+**NB – time given is Central European Time**<br>
+
 Monday, August 10
 
 08:30-09:15 Why are computational skills needed in biomedicine - relevance to uncovering

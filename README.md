@@ -43,7 +43,7 @@ your computer for the computational exercises at the Summer School https://rise.
 
 #### Week 32 (exact date not yet set)
 - Why are computational skills needed in biomedicine - relevance to uncovering
-disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen)
+disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen) [[motovational slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit#slide=id.g57a88c4dbd_2_90)] from the previous Summer School at [Seili 2019](https://github.com/oercompbiomed/Seili-2019).
 
 - Review of pre-assignments - Jupyter notebooks, tools and data repositories
 (Arvid Lundervold, Peder Lillebostad, University of Bergen)

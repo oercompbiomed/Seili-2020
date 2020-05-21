@@ -43,46 +43,36 @@ University of Turku will award 5 ECTS for all the participants after successful 
 
 ## Summer School Programme (preliminary)
 
-**The Summer School has its start in June and finish in end of September.
-Exact dates for start and finish is not yet set. In June a package of pre-
-assignments will be sent out to participants and project groups will be
-formed – one student from each university in each group. The week
-before the summer school starts in August introductory lecture will be
-held and the first start-up work shop. During the course week online
-lectures are given with possibilities to interact with teachers. Group work
-is scheduled to afternoons between 12.00 – 18.00 (CET) for most of the
-days – estimated at least 4h/day is needed. After the course week student
-groups continue to work with the project and deliver a report in the end
-of September.
+The Summer School has its start in June and finish in end of September. In June (exact date TBC) a package of pre-assignments will be sent out to participants and project groups will be formed – one student from each participating university in each group.
 
-**Students are signed in at University of Turku from where 5 credit points (ECTS)
-are given upon completion of the course.**
+The week before the summer school starts in August introductory lecture will be held and the first start-up workshop. During the intensive course week online lectures are given with possibilities to interact with teachers. Group work is scheduled to afternoons between 12.00 – 18.00 (CET) for most of the days – estimated at least 4h/day active work in groups is needed. After the course week student groups continue to work with the projects on-line and in virtual meetings. The teams deliver a final report in the end of September (25.9.2020).
 
+Students will work on Canvas platform (Karoliska Institutet) and data will be shared in GitHub. Students are signed in at University of Turku from where 5 ECTS are given upon completion of the course.
 
-### Pre-assignments:
-**Bioethics (web-based) containing the following parts:**<br>
-1. The basic concepts, theories, and principles in biomedical ethics
-2. Research ethics for biomedical analytics
+#### Pre-assignments in June:
+
+**Bioethics (web-based) containing the following modules:**<br>
+Module 1. Introduction to BioEthicsX
+Module 2. Research ethics in Biomedicine
 
 **Python, R and friends:**<br>
 A short introduction to programming and how to prepare yourself and
 your computer for the computational exercises at the Summer School https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 
+#### Week 32 (TBC)
+- Why are computational skills needed in biomedicine? - Relevance to uncovering
+disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*) - motivational [[slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit#slide=id.g57a88c4dbd_2_90)] from the previous Summer School at [Seili 2019](https://github.com/oercompbiomed/Seili-2019)
 
-#### Week 32 (exact date not yet set)
-- Why are computational skills needed in biomedicine - relevance to uncovering
-disease mechanisms and for diagnostics (Arvid Lundervold, University of Bergen) - motivational [[slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit#slide=id.g57a88c4dbd_2_90)] from the previous Summer School at [Seili 2019](https://github.com/oercompbiomed/Seili-2019)
+- Review of pre-assignments - Jupyter notebooks, on tools and data repositories
+(*Arvid Lundervold, Peder Lillebostad, University of Bergen*)
 
-- Review of pre-assignments - Jupyter notebooks, tools and data repositories
-(Arvid Lundervold, Peder Lillebostad, University of Bergen)
+- Team building activities (*Karin Hjernø, University of Southern Denmark*)
 
-- Team building activities (Karin Hjernø, University of Southern Denmark)
 
-#### Week 33
+#### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):
 
 **Monday, August 10**<br>
-NB – time given is Central European Time
 ```
 09:00 - 09:45   Bioimage informatics and machine learning 
                 (Jussi Tohka, University of Eastern Finland, Kuopio)

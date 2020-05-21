@@ -73,8 +73,9 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 #### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):<br>
 
 
-| **Monday, August 10**|  Activity                                       |    Zoom       |
+| Time       |  Activity                                                 |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
+|**Monday, August 10**|                                                  |               |
 |09:00-09:15 | Kick-off for the Summer School 2020                       |  Join in Zoom |
 |            | Lars-Arne Haldosen, Karolinska Institutet, Stockholm      |               |
 |09:15-10:00 | Bioimage informatics and machine learning                 | Join in Zoom  |

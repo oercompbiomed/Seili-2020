@@ -106,7 +106,7 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 |            | Pasi Kankaanpää, University of Turku                      |               |
 |09:45-10:15 | Coffee in Coffee Room (Zoom)                              | Join in Zoom  |
 |            |                                                           |               |
-|*Career opportunities outside academia*| – *meet the companies in bioimage informatics*||
+|*Career opportunities | *outside academia - meet the companies in bioimage informatics*||
 |10:15-11:00 | Misvik Biology https://www.misvik.com                     | Join in Zoom  |
 |            | Juha Rantala, CEO, Turku                                  |               |
 |11:00-11:45 | Aiforia https://www.aiforia.com                           | Join in Zoom  |
@@ -120,30 +120,39 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 __________________________________________________________________________<br>
 
 
-# "Work load" / pre-assignment / project work / final report
+## Before the summer school
+Before the summer school you have some assignments to do. It is up to you to plan when to do this during summer. 
 
-## Work load
-
-The workload reflects **5 ECTS**, and include (**i**) a pre-course period (pre-assignment), (**ii**) the one week lecture and instruction period August 10-14, and (**iii**) the post-course period for (group-wise) writing the project report with deadline in September.
-
-## Pre-assignment 
-
-### Setting up your system (preparation to the course)
-
-**Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
-
-##### Browser
-- Display and functionality might differ between browsers - we recommend using Google [Chrome](https://www.google.com/chrome) on all platforms
-
-#### Notebooks
-The course is based on the Jupyter Notebook, a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
-
-##### IMPORTANT (for making your own notebooks for coding experiments without conflict)
-Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `**git pull**` (things can have changed).
+#### 1. *Go through a module of a course in bioethics with focus on basic principles in bioethics* by following the two steps below. 
+- Make an account in edX Edge: https://edge.edx.org/register
+- Enroll to the module via the link: https://edge.edx.org/courses/course-v1:KIx+KIBioEthicsX<br>
+Niklas Juth from Karolinska Institutet  will work with you on some cases related to the theme of the summer school.
 
 
-#### Get started - test your environment
-* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK.<br>
+#### 2. *Prepare you and your computer for computational analysis*
+If you are used to work with computer installations and github you can go directly to the material at github and use the guide for setting up your computer and perform notebook exercises. 
+
+- **Python course material** at  https://github.com/oercompbiomed/Seili-2020/blob/master/README.md  – follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready
+
+- **Browser** display and functionality might differ between browsers - we recommend using Google [Chrome](https://www.google.com/chrome) on all platforms
+
+- **Jupyter notebooks** are used throughout the course being a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
+
+-  **Test your environment** [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK
+
+- Throughout the course you will work with notebooks that contain various material and programming tasks. We recommend that you *make a copy of our notebooks before you are editing them*. In this respect you might adopt the naming convention `my_[name_of_notebook].ipynb`. Remember also to start a new session with a `**git pull**` (things can have changed)
+
+
+If you are less experienced you may want to visit our interactive course material first (see link below). It contains video instruction on how to set up your computer for the course and introduction to programming as well as the notebooks exercises.  
+https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
+
+(It is the **Python, R and Friends** part of our OpenEdx course transformed into a Rise course for the purpose of being pre-course material for the online Summer School). 
+
+#### 3. *Orient yourself in the material for the group project and how to use latex creating the report document*
+
+- **Project description** (“Precision medicine and quantitative imaging in glioblastoma – a multiscale approach“) at prj-descr.md
+
+- **LaTeX template for the report** at the latex (Links to an external site.) We will be using the Overleaf (Links to an external site.) Online LaTeX editor
 
 
 __________________________________________________________________________<br>

@@ -52,7 +52,7 @@ Students will work on Canvas platform (Karoliska Institutet) and data will be sh
 #### Pre-assignments in June:
 
 **Bioethics (web-based) containing the following modules:**<br>
-Module 1. Introduction to BioEthicsX
+Module 1. Introduction to BioEthicsX<br>
 Module 2. Research ethics in Biomedicine
 
 **Python, R and friends:**<br>
@@ -71,6 +71,30 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 
 
 #### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):
+
+**Monday, August 10**<br>
+
+|            |                                                        |               |
+|09:00-09:15 | Kick-off for the Summer School 2020                    |  Join in Zoom |
+|            | Lars-Arne Haldosen, Karolinska Institutet, Stockholm   |               |
+|09:15-10:00 | Bioimage informatics and machine learning              | Join in Zoom |
+|             | Jussi Tohka, University of Eastern Finland, Kuopio     |             |
+|10:00-10:30  | Coffee in Coffee Room (Zoom)                           | Join in Zoom |
+|10:30-11:15  | Brain cancer – clinical aspects                        | Join in Zoom |
+|             | Heikki Minn, University and University Hospital, Turku | Join in Zoom |
+| 11:15-12:00 | Glioblastoma – molecular mechanisms                     | Join in Zoom |
+|            | Maria Gardberg, University and University Hospital, Turku |            |
+| Afternoon   | Project work in teams                                  | Join in Zoom |
+
+
+**Tuesday, August 11**
+
+
+
+
+
+
+
 
 **Monday, August 10**<br>
 ```

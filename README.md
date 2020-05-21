@@ -86,24 +86,16 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 |11:15-12:00 | Glioblastoma – molecular mechanisms                       | Join in Zoom  |
 |            | Maria Gardberg, University and University Hospital, Turku |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
-
-
-**Tuesday, August 11**<br>
-
-|   Time     | Activity                                                  |    Zoom       |
-|------------|-----------------------------------------------------------|---------------|
+|            |                                                           |               |
+|**Tuesday, August 11**|                                                 |               |
 |09:00-12:00 | Workshop: Image data analysis - using unsupervised        |  Join in Zoom |
 |            | classification to analyse brain cancer                    |               |
 |            | Arvid Lundervold, Peder Lillebostad, University of Bergen |               |
 |13:00-1400  | Workshop: Image data analysis cont. - Deep learning       |  Join in Zoom |
 |            | Arvid Lundervold, Peder Lillebostad, University of Bergen |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
-
-
-**Wednesday, August 12**<br>
-
-|   Time     | Activity                                                  |    Zoom       |
-|------------|-----------------------------------------------------------|---------------|
+|            |                                                           |               |
+|**Wednesday, August 12**|                                               |               |
 |09:00-12:00 | Workshop: Bioethics                                       |  Join in Zoom |
 |            | Niklas Juth, Karolinska Institutet, Stockholm             |               |
 |            | Juhani Knuuti, University of Turku                        |               |

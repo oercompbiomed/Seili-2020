@@ -77,40 +77,40 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 |------------|-----------------------------------------------------------|---------------|
 |**Monday, August 10**|                                                  |               |
 |09:00-09:15 | Kick-off for the Summer School 2020                       |  Join in Zoom |
-|            | Lars-Arne Haldosen, Karolinska Institutet, Stockholm      |               |
+|            | *Lars-Arne Haldosen, Karolinska Institutet, Stockholm*    |               |
 |09:15-10:00 | Bioimage informatics and machine learning                 | Join in Zoom  |
-|            | Jussi Tohka, University of Eastern Finland, Kuopio        |               |
+|            | *Jussi Tohka, University of Eastern Finland, Kuopio*      |               |
 |10:00-10:30 | Coffee in Coffee Room (Zoom)                              | Join in Zoom  |
 |10:30-11:15 | Brain cancer – clinical aspects                           | Join in Zoom  |
-|            | Heikki Minn, University and University Hospital, Turku    | Join in Zoom  |
+|            | *Heikki Minn, University and University Hospital, Turku*  | Join in Zoom  |
 |11:15-12:00 | Glioblastoma – molecular mechanisms                       | Join in Zoom  |
-|            | Maria Gardberg, University and University Hospital, Turku |               |
+|            | *Maria Gardberg, University and University Hospital, Turku* |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Tuesday, August 11**|                                                 |               |
 |09:00-12:00 | Workshop: Image data analysis - using unsupervised        |  Join in Zoom |
 |            | classification to analyse brain cancer                    |               |
-|            | Arvid Lundervold, Peder Lillebostad, University of Bergen |               |
+|            | *Arvid Lundervold, Peder Lillebostad, University of Bergen* |               |
 |13:00-1400  | Workshop: Image data analysis cont. - Deep learning       |  Join in Zoom |
-|            | Arvid Lundervold, Peder Lillebostad, University of Bergen |               |
+|            | *Arvid Lundervold, Peder Lillebostad, University of Bergen* |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Wednesday, August 12**|                                               |               |
 |09:00-12:00 | Workshop: Bioethics                                       |  Join in Zoom |
-|            | Niklas Juth, Karolinska Institutet, Stockholm             |               |
-|            | Juhani Knuuti, University of Turku                        |               |
+|            | *Niklas Juth, Karolinska Institutet, Stockholm*           |               |
+|            | *Juhani Knuuti, University of Turku*                      |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Thursday, August 13**|                                                |               |
 |09:00-09:45 | Euro-Bioimaging - Image life, discover the future         |  Join in Zoom |
-|            | Pasi Kankaanpää, University of Turku                      |               |
+|            | *Pasi Kankaanpää, University of Turku*                    |               |
 |09:45-10:15 | Coffee in Coffee Room (Zoom)                              | Join in Zoom  |
 |            |                                                           |               |
-|*Career opportunities | *outside academia - meet the companies in bioimage informatics*||
+|**Career opportunities* | **outside academia - meet the companies in bioimage informatics**||
 |10:15-11:00 | Misvik Biology https://www.misvik.com                     | Join in Zoom  |
-|            | Juha Rantala, CEO, Turku                                  |               |
+|            | *Juha Rantala, CEO, Turku*                                |               |
 |11:00-11:45 | Aiforia https://www.aiforia.com                           | Join in Zoom  |
-|            | Darshan Kumar, Customer Success Scientist, Helsinki       |               |
+|            | *Darshan Kumar, Customer Success Scientist, Helsinki*     |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Friday, August 14**|                                                  |               |
@@ -148,21 +148,12 @@ https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 (It is the **Python, R and Friends** part of our OpenEdx course transformed into a Rise course for the purpose of being pre-course material for the online Summer School). 
 
-#### 3. *Orient yourself in the material for the group project and how to use latex creating the report document*
+#### 3. *Orient yourself in the material for the group project and how to use [LaTeX](https://www.latex-project.org) creating the report document*
 
-- **Project description** (“Precision medicine and quantitative imaging in glioblastoma – a multiscale approach“) at prj-descr.md
+- **Project description** (“_Precision medicine and quantitative imaging in glioblastoma – a multiscale approach_“) at prj-descr.md
 
-- **LaTeX template for the report** at the latex (Links to an external site.) We will be using the Overleaf (Links to an external site.) Online LaTeX editor
+- **LaTeX template for the report** at the latex (Links to an external site.) We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor
 
-
-__________________________________________________________________________<br>
-
-## Project work
-
-
-__________________________________________________________________________<br>
-
-## Final report
 
 
 __________________________________________________________________________<br>

@@ -105,7 +105,7 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 |            | Pasi Kankaanpää, University of Turku                      |               |
 |09:45-10:15 | Coffee in Coffee Room (Zoom)                              | Join in Zoom  |
 |            |                                                           |               |
-|*Career opportunities outside academia – meet the companies in bioimage informatics*| | |
+|*Career opportunities outside academia*| – *meet the companies in bioimage informatics*||
 |10:15-11:00 | Misvik Biology https://www.misvik.com                     | Join in Zoom  |
 |            | Juha Rantala, CEO, Turku                                  |               |
 |11:00-11:45 | Aiforia https://www.aiforia.com                           | Join in Zoom  |

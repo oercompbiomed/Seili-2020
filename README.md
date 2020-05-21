@@ -136,7 +136,7 @@ If you are used to work with computer installations and github you can go direct
 
 - **Browser** display and functionality might differ between browsers - we recommend using Google [Chrome](https://www.google.com/chrome) on all platforms
 
-- **Jupyter notebooks** are used throughout the course being a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk og https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
+- **Jupyter notebooks** are used throughout the course being a web-based framework for developing and presenting code-based projects (take a look at https://youtu.be/HW29067qVWk and https://youtu.be/2eCHD6f_phE for introductions to Jupyter Notebooks).
 
 -  **Test your environment** [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more]: run through this notebook [`test-notebooks/0.0-test-installation.ipynb`](test-notebooks/0.0-test-installation.ipynb) to check that your environment is OK
 

@@ -100,7 +100,7 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 
 
-**Wednesday, August 12*<br>
+**Wednesday, August 12**<br>
 
 |   Time     | Activity                                                  |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
@@ -120,6 +120,8 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 
 *Career opportunities outside academia – meet the companies in bioimage informatics*
 
+|   Time     | Company / presenter / activity                            |    Zoom       |
+|------------|-----------------------------------------------------------|---------------|
 |10:15-11:00 | Misvik Biology https://www.misvik.com                     | Join in Zoom  |
 |            | Juha Rantala, CEO, Turku                                  |               |
 |11:00-11:45 | Aiforia https://www.aiforia.com                           | Join in Zoom  |

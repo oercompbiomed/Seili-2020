@@ -10,6 +10,35 @@ NordBioMed is a collaborative network in the field of Biomedicine between the Un
 
 **The topic for the 2020 Summer school is computational biomedicine in brain tumours. This year the course will virtual due to the current situation with COVID-19.**
 
+## General information
+
+### Learning aims:
+
+Students will apply their previous knowledge to identify relevant and realistic topics/problems in the field of computational biomedicine. Students will work in groups of 4-5 students, each group is guided by a junior mentor. Based on the course material and guidance during the summer school, each group will develop and present a virtual preclinical research project to solve the selected problems. The final report/assignment which will be prepared individually in virtual work groups after the summer school.
+
+### Contents:
+**Before the summer school**<br>
+- preliminary reading and assignments on NordBioMedNet Canvas
+
+**During the summer school**<br>
+- lectures
+- team work
+- student presentations
+- practical exercises
+
+**After the summer school**<br>
+- independent work and virtual team work
+- final report and press release
+
+### Course structure
+- All course material and information will be found on Canvas
+- Lectures and group activities will be held  in Zoom
+- Python course material at GitHub (https://github.com/oercompbiomed/Seili-2020)
+
+
+### Volume: 5 ECTS
+
+University of Turku will award 5 ECTS for all the participants after successful completion of the Summer School. Each participant receives a course certificate and a transcript. However, the final crediting will be done at the home university of each participant, and the home university has a right to change the amount of ECTS awarded.
 
 
 ## Summer School Programme (preliminary)

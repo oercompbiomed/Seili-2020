@@ -70,11 +70,10 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 - Team building activities (*Karin Hjernø, University of Southern Denmark*)
 
 
-#### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):
+#### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):<br>
 
-**Monday, August 10**<br>
 
-|   Time     | Activity                                                  |    Zoom       |
+| **Monday, August 10**|  Activity                                       |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
 |09:00-09:15 | Kick-off for the Summer School 2020                       |  Join in Zoom |
 |            | Lars-Arne Haldosen, Karolinska Institutet, Stockholm      |               |
@@ -100,31 +99,20 @@ disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*
 |            | Niklas Juth, Karolinska Institutet, Stockholm             |               |
 |            | Juhani Knuuti, University of Turku                        |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
-
-
-**Thursday, August 13**<br>
-
-|   Time     | Activity                                                  |    Zoom       |
-|------------|-----------------------------------------------------------|---------------|
+|            |                                                           |               |
+|**Thursday, August 13**|                                                |               |
 |09:00-09:45 | Euro-Bioimaging - Image life, discover the future         |  Join in Zoom |
 |            | Pasi Kankaanpää, University of Turku                      |               |
 |09:45-10:15 | Coffee in Coffee Room (Zoom)                              | Join in Zoom  |
-
-*Career opportunities outside academia – meet the companies in bioimage informatics*
-
-|   Time     | Company / presenter / activity                            |    Zoom       |
-|------------|-----------------------------------------------------------|---------------|
+|            |                                                           |               |
+|*Career opportunities outside academia – meet the companies in bioimage informatics*| | |
 |10:15-11:00 | Misvik Biology https://www.misvik.com                     | Join in Zoom  |
 |            | Juha Rantala, CEO, Turku                                  |               |
 |11:00-11:45 | Aiforia https://www.aiforia.com                           | Join in Zoom  |
 |            | Darshan Kumar, Customer Success Scientist, Helsinki       |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
-
-
-**Friday, August 14**<br>
-
-|   Time     | Activity                                                  |    Zoom       |
-|------------|-----------------------------------------------------------|---------------|
+|            |                                                           |               |
+|**Friday, August 14**|                                                  |               |
 |09:00-13:00 | Student presentations with feedback                       |  Join in Zoom |
 
 

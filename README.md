@@ -132,7 +132,7 @@ Niklas Juth from Karolinska Institutet  will work with you on some cases related
 #### 2. *Prepare you and your computer for computational analysis*
 If you are used to work with computer installations and github you can go directly to the material at github and use the guide for setting up your computer and perform notebook exercises. 
 
-- **Python course material** at  https://github.com/oercompbiomed/Seili-2020/blob/master/README.md  – follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready
+- **Python course material** at https://github.com/oercompbiomed/Seili-2020  – follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready
 
 - **Browser** display and functionality might differ between browsers - we recommend using Google [Chrome](https://www.google.com/chrome) on all platforms
 
@@ -152,7 +152,7 @@ https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 - **Project description** (“_Precision medicine and quantitative imaging in glioblastoma – a multiscale approach_“) at prj-descr.md
 
-- **LaTeX template for the report** at the latex (Links to an external site.) We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor
+- **LaTeX template for the report** at the latex (Links to an external site.) We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor (for more information on LaTeX, see [here](https://en.wikipedia.org/wiki/LaTeX) and [here](https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf) and [here](https://mildopinions.wordpress.com/2008/07/07/why-i-use-latex-in-biology), and for LeTeX templates, see e.g. [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-molecular-systems-biology/kyxgttpbzhht) and [here](https://www.overleaf.com/latex/templates/tagged/academic-journal))
 
 
 

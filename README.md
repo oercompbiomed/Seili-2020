@@ -150,7 +150,7 @@ https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 #### 3. *Orient yourself in the material for the group project and how to use [LaTeX](https://www.latex-project.org) creating the report document*
 
-- **Project description** (“_Precision medicine and quantitative imaging in glioblastoma – a multiscale approach_“) at prj-descr.md
+- **Project description** (“_Precision medicine and quantitative imaging in glioblastoma – a multiscale approach_“) at [`prj-descr.md`](project/prj-descr.md)
 
 - **LaTeX template for the report** illustrated with a group project report from the previous 2019 Summer School at Seili for which *Prostate Cancer* was the topic (see this [link](https://www.overleaf.com/read/xwjxwcnpzhqv)). We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor (for more information on LaTeX, see [here](https://en.wikipedia.org/wiki/LaTeX) and [here](https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf) and [here](https://mildopinions.wordpress.com/2008/07/07/why-i-use-latex-in-biology), and for LeTeX templates, see e.g. [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-molecular-systems-biology/kyxgttpbzhht) and [here](https://www.overleaf.com/latex/templates/tagged/academic-journal))
 

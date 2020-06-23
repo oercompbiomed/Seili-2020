@@ -159,9 +159,9 @@ Also, for those of you that have limited knowledge about biology and pathology o
 
 
 - **Pre reading** 
-  - Aldape K et al. Challenges to curing primary brain tumors. Nat Rev Clin Oncol 2019;16:509-520  [[link](https://www.nature.com/articles/s41571-019-0177-5)]
+  - Aldape K et al. Challenges to curing primary brain tumors. Nat Rev Clin Oncol 2019;16:509-520.  [[link](https://www.nature.com/articles/s41571-019-0177-5)]
   
-  - Louis DN et al. The 2016 World Health Organization Classification of Tumors of the Central Nervous System: A Summary. Acta Neuropathol 2016;131(6):803-820. [[link](https://pubmed.ncbi.nlm.nih.gov/27157931)]
+  - Louis DN et al. The 2016 World Health Organization Classification of Tumors of the Central Nervous System: A Summary. Acta Neuropathol 2016;131(6):803-820. [[link](https://link.springer.com/article/10.1007/s00401-016-1545-1)]
   
   - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain
 

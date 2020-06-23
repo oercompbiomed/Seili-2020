@@ -41,7 +41,7 @@ Students will apply their previous knowledge to identify relevant and realistic 
 University of Turku will award 5 ECTS for all the participants after successful completion of the Summer School. Each participant receives a course certificate and a transcript. However, the final crediting will be done at the home university of each participant, and the home university has a right to change the amount of ECTS awarded.
 
 
-## Summer School Programme (preliminary)
+## Summer School Programme
 
 The Summer School has its start in June and finish in end of September. In June (exact date TBC) a package of pre-assignments will be sent out to participants and project groups will be formed – one student from each participating university in each group.
 

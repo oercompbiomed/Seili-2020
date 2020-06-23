@@ -166,6 +166,20 @@ Also, for those of you that have limited knowledge about biology and pathology o
   - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain
 
 __________________________________________________________________________<br>
+**Brain tumor & Neuroimaging** (some pointers)
+
+- Abd-Ellah MK et al. A review on brain tumor diagnosis from MRI images: Practical implications, key achievements, and lessons learned. Magnetic Resonance Imaging 2019;61:300-318. [[link](https://www.sciencedirect.com/science/article/pii/S0730725X18304302)]
+- Hamid MAA, Khan NA. Investigation and Classification of MRI Brain Tumors Using Feature Extraction Technique. Journal of Medical and Biological Engineering 2020;40:307–317. [[link](https://link.springer.com/article/10.1007/s40846-020-00510-1)]
+- Lohmann P et al. PET/MRI Radiomics in Patients With Brain Metastases. Front. Neurol., 07 February 2020. [[link](https://www.frontiersin.org/articles/10.3389/fneur.2020.00001/full)]
+- Tiwari A et al. Brain tumor segmentation and classification from magnetic resonance images: Review of selected methods from 2014 to 2019. Pattern Recognition Letters 2020;131:244-260. [[link](https://www.sciencedirect.com/science/article/pii/S016786551930340X)]
+- Nadeem MW et al. Brain Tumor Analysis Empowered with Deep Learning: A Review, Taxonomy, and Future Challenges. Brain Sci 2020;10(2):118. [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071415)]
+
+
+
+
+
+
+__________________________________________________________________________<br>
 
 SPONSORS<br>
 <img src="./assets/logos.png" width="500">

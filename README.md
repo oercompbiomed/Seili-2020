@@ -31,7 +31,7 @@ Students will apply their previous knowledge to identify relevant and realistic 
 - final report and press release
 
 ### Course structure
-- All course material and information will be found on Canvas (https://ki.instructure.com/courses/4313 closed)
+- All course material and information will be found on Canvas (https://ki.instructure.com/courses/4313 needs login)
 - Lectures and group activities will be held in Zoom
 - Python course material at GitHub (https://github.com/oercompbiomed/Seili-2020)
 

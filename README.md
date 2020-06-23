@@ -155,7 +155,15 @@ https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 - **LaTeX template for the report** illustrated with a group project report from the previous 2019 Summer School at Seili for which *Prostate Cancer* was the topic (see this [link](https://www.overleaf.com/read/xwjxwcnpzhqv)). We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor (for more information on LaTeX, see [here](https://en.wikipedia.org/wiki/LaTeX) and [here](https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf) and [here](https://mildopinions.wordpress.com/2008/07/07/why-i-use-latex-in-biology), and for LeTeX templates, see e.g. [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-molecular-systems-biology/kyxgttpbzhht) and [here](https://www.overleaf.com/latex/templates/tagged/academic-journal))
 
 
-Also, for those of you that have limited knowledge about biology and pathology of brain or have to refresh about this there is a web course on Coursera – for free – covering the above. It is possible to pay a fee if you are interested to have a diploma if you go through the course. See https://www.coursera.org/learn/neurobiology
+Also, for those of you that have limited knowledge about biology and pathology of brain or have to refresh about this there is a web course on Coursera – for free – covering the above. It is possible to pay a fee if you are interested to have a diploma if you go through the course. See https://www.coursera.org/learn/neurobiology<br>
+
+
+- **Pre reading** 
+  - Aldape K et al. Challenges to curing primary brain tumors. Nat Rev Clin Oncol 2019;16:509-520  [[link](https://www.nature.com/articles/s41571-019-0177-5)]
+  
+  - Louis DN et al. The 2016 World Health Organization Classification of Tumors of the Central Nervous System: A Summary. Acta Neuropathol 2016;131(6):803-820. [[link](https://pubmed.ncbi.nlm.nih.gov/27157931)]
+  
+  - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain
 
 __________________________________________________________________________<br>
 

@@ -30,8 +30,9 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
 
 __________________________________________________________________<br>
 ### A LaTeX template on Overleaf
-**Group work from [Seili-2019](https://github.com/oercompbiomed/Seili-2019), then focusing on prostate cancer, can be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and on this repo as [[pdf](./Seili_2020_project_template.pdf)]  [[main.tex](./main.tex)]  [[fig1](Fig1_The_process_of_autoEncoder.png)] [[fig2](Fig2_Overview_of_the_process.png)]**
-### Some sources of information  (brain tumors - neuroimaging - AI - software & data)
+**Group work from [Seili-2019](https://github.com/oercompbiomed/Seili-2019), then focusing on prostate cancer, can be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and on this repo as  [[main.tex](https://github.com/oercompbiomed/Seili-2020/edit/master/project/main.tex)]  [[fig1](https://github.com/oercompbiomed/Seili-2020/edit/master/project/Fig1_The_process_of_autoEncoder.png)] [[fig2](https://github.com/oercompbiomed/Seili-2020/edit/master/project/Fig2_Overview_of_the_process.png)] resulting in [[pdf](https://github.com/oercompbiomed/Seili-2020/edit/master/project/Seili_2020_project_template.pdf)]**
+
+### Some sources of information  (brain tumors - neuroimaging - AI - software & data)Seili_2020_project_template.pdf
 **are listed [here](../README.md#project-related)**
 
 

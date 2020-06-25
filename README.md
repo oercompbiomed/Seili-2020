@@ -126,7 +126,8 @@ Before the summer school you have some assignments to do. It is up to you to pla
 #### 1. *Go through a module of a course in bioethics with focus on basic principles in bioethics* by following the two steps below. 
 - Make an account in edX Edge: https://edge.edx.org/register
 - Enroll to the module via the link: https://edge.edx.org/courses/course-v1:KIx+KIBioEthicsX<br>
-Niklas Juth from Karolinska Institutet  will work with you on some cases related to the theme of the summer school.
+Niklas Juth from Karolinska Institutet  will work with you on some cases related to the theme of the summer school.<br>
+(for students outside the Summer school, see the edX (KIx) course by Niklas Juth: [The Ethics of Biomedicine](https://www.edx.org/course/the-ethics-of-biomedicine))
 
 
 #### 2. *Prepare you and your computer for computational analysis*

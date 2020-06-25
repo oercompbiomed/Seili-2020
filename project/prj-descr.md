@@ -29,18 +29,9 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
  - Ethical consideration
 
 
-## Sources of information
+## Sources of information  (Brain tumors - Neuroimaging - AI - Software & Data)
 See [here](../README.md#project-related)
 
-### Glioblastoma
 
-
-
-### Imaging
-
-
-
-
-###  Methods and code from the field of machine learning (incl radiomics, deep learning)
 
 

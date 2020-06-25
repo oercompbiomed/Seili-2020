@@ -168,6 +168,7 @@ Also, for those of you that have limited knowledge about biology and pathology o
 __________________________________________________________________________<br>
 ### Project related
 #Project related references
+
 **Brain tumors & Neuroimaging** (some pointers)
 
 - Abd-Ellah MK et al. A review on brain tumor diagnosis from MRI images: Practical implications, key achievements, and lessons learned. Magnetic Resonance Imaging 2019;61:300-318. [[link](https://www.sciencedirect.com/science/article/pii/S0730725X18304302)]

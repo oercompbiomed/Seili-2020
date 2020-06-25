@@ -30,17 +30,17 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
 
 
 ## Sources of information
-#project-related-references
+See [here](../README.md#project-related)
 
 ### Glioblastoma
 
-See [here](README.md#project-related-links)
+
 
 ### Imaging
 
-TBA
+
 
 
 ###  Methods and code from the field of machine learning (incl radiomics, deep learning)
 
-TBA
+

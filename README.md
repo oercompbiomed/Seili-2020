@@ -168,6 +168,8 @@ Also, for those of you that have limited knowledge about biology and pathology o
 __________________________________________________________________________<br>
 ### Project related
 
+(see also [here](./project/prj-descr.md))
+
 **Brain tumors & Neuroimaging** (some pointers)
 
 - Abd-Ellah MK et al. A review on brain tumor diagnosis from MRI images: Practical implications, key achievements, and lessons learned. Magnetic Resonance Imaging 2019;61:300-318. [[link](https://www.sciencedirect.com/science/article/pii/S0730725X18304302)]
@@ -193,7 +195,7 @@ __________________________________________________________________________<br>
 - Joohyun Lee. BraTs (Brain Tumor Segmentation) [https://github.com/cv-lee/BraTs]
 - Bakas S et al. Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features. Scientific Data 2017;4, Article number: 170117 [https://www.nature.com/articles/sdata2017117] [[pdf](https://www.nature.com/articles/sdata2017117.pdf)]<br>
 *Excerpt*: Considering the value of big data and the potential of publicly available datasets for increased reproducibility of scientific findings, the National Cancer Institute (NCI) of the National Institutes of Health (NIH) created TCGA ([cancergenome.nih.gov](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)) and [TCIA](https://link.springer.com/article/10.1007/s10278-013-9622-7) (www.cancerimagingarchive.net). TCGA is a multi-institutional comprehensive collection of various molecularly characterized tumor types, and its data are available in NCI’s Genomic Data Commons portal ([gdc-portal.nci.nih.gov](https://portal.gdc.cancer.gov)). Building upon NIH’s investment in TCGA, the NCI’s Cancer Imaging Program approached sites that contributed tissue samples, to obtain corresponding de-identified routine clinically-acquired radiological data and store them in TCIA. These repositories make available multi-institutional, high-dimensional, multi-parametric data of cancer patients, allowing for radiogenomic analysis. 
-- Lundervold AS, Lundervold A. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik. 2019;29(2):102-127, [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)] [[pdf](https://reader.elsevier.com/reader/sd/pii/S0939388918301181?token=F0F5572A8CA576BB20A27E381932486EAD2ECEAA5FEE098EAE183438F8BA7A989E8046160DDE10526E3698BD6D27784A)]
+- Lundervold AS, Lundervold A. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik. 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)] [[pdf](https://reader.elsevier.com/reader/sd/pii/S0939388918301181?token=F0F5572A8CA576BB20A27E381932486EAD2ECEAA5FEE098EAE183438F8BA7A989E8046160DDE10526E3698BD6D27784A)]
 
 __________________________________________________________________________<br>
 

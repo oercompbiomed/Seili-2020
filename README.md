@@ -163,7 +163,7 @@ Also, for those of you that have limited knowledge about biology and pathology o
   
   - Louis DN et al. The 2016 World Health Organization Classification of Tumors of the Central Nervous System: A Summary. Acta Neuropathol 2016;131(6):803-820. [[link](https://link.springer.com/article/10.1007/s00401-016-1545-1)]
   
-  - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain
+  - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain [[brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4)]
 
 __________________________________________________________________________<br>
 **Brain tumor & Neuroimaging** (some pointers)

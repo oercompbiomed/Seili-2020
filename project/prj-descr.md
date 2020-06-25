@@ -34,7 +34,7 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
 
 ### Glioblastoma
 
-TBA
+See [here](README.md#project-related-links)
 
 ### Imaging
 

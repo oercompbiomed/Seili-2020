@@ -155,7 +155,7 @@ https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 - **LaTeX template for the report** illustrated with a group project report from the previous 2019 Summer School at Seili for which *Prostate Cancer* was the topic (see this [link](https://www.overleaf.com/read/xwjxwcnpzhqv)). We will be using the [Overleaf](https://www.overleaf.com) online, collaborative LaTeX editor (for more information on LaTeX, see [here](https://en.wikipedia.org/wiki/LaTeX) and [here](https://www.tug.org/pracjourn/2007-4/senthil/senthil.pdf) and [here](https://mildopinions.wordpress.com/2008/07/07/why-i-use-latex-in-biology), and for LeTeX templates, see e.g. [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-molecular-systems-biology/kyxgttpbzhht) and [here](https://www.overleaf.com/latex/templates/tagged/academic-journal))
 
 
-Also, for those of you that have limited knowledge about biology and pathology of brain or have to refresh about this there is a web course on Coursera – for free – covering the above. It is possible to pay a fee if you are interested to have a diploma if you go through the course. See https://www.coursera.org/learn/neurobiology<br>
+Also, for those of you that have limited knowledge about biology and pathology of brain or have to refresh about this there is a web course on Coursera – for free – covering the above. It is possible to pay a fee if you are interested to have a diploma if you go through the course. See https://www.coursera.org/learn/neurobiology   [[brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4)]<br>
 
 
 - **Pre reading** 
@@ -163,10 +163,10 @@ Also, for those of you that have limited knowledge about biology and pathology o
   
   - Louis DN et al. The 2016 World Health Organization Classification of Tumors of the Central Nervous System: A Summary. Acta Neuropathol 2016;131(6):803-820. [[link](https://link.springer.com/article/10.1007/s00401-016-1545-1)]
   
-  - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain [[brain tumors](https://www.coursera.org/lecture/neurobiology/brain-tumors-fUcn4)]
+  - The Brain Atlas https://www.proteinatlas.org/humanproteome/brain 
 
 __________________________________________________________________________<br>
-**Brain tumor & Neuroimaging** (some pointers)
+**Brain tumors & Neuroimaging** (some pointers)
 
 - Abd-Ellah MK et al. A review on brain tumor diagnosis from MRI images: Practical implications, key achievements, and lessons learned. Magnetic Resonance Imaging 2019;61:300-318. [[link](https://www.sciencedirect.com/science/article/pii/S0730725X18304302)]
 - Hamid MAA, Khan NA. Investigation and Classification of MRI Brain Tumors Using Feature Extraction Technique. Journal of Medical and Biological Engineering 2020;40:307–317. [[link](https://link.springer.com/article/10.1007/s40846-020-00510-1)]
@@ -174,9 +174,21 @@ __________________________________________________________________________<br>
 - Tiwari A et al. Brain tumor segmentation and classification from magnetic resonance images: Review of selected methods from 2014 to 2019. Pattern Recognition Letters 2020;131:244-260. [[link](https://www.sciencedirect.com/science/article/pii/S016786551930340X)]
 - Nadeem MW et al. Brain Tumor Analysis Empowered with Deep Learning: A Review, Taxonomy, and Future Challenges. Brain Sci 2020;10(2):118. [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071415)]
 
-
 - Brain Tumor Segmentation (BraTS) Challenge 2020: Scope  (MICCAI2020) - Center for Biomedical Image Computing & Analytics, Perelman School of Medicine, University of Pennsylvania [[link](https://www.med.upenn.edu/cbica/brats2020)]
 
+
+**Brain tumors & Artificial intelligence** (some pointers)
+
+- NCI: Artificial Intelligence Expedites Brain Tumor Diagnosis during Surgery. 2020 Feb 12. [[link](https://www.cancer.gov/news-events/cancer-currents-blog/2020/artificial-intelligence-brain-tumor-diagnosis-surgery#:~:text=Now%2C%20a%20new%20study%20shows,tumor%20tissue%20from%20healthy%20tissue)]
+- Hollon TC et al. Near Real-Time Intraoperative Brain Tumor Diagnosis Using Stimulated Raman Histology and Deep Neural Networks. Nature Medicine 2020;26(1):52-58. [[link](https://www.nature.com/articles/s41591-019-0715-9)]  [[GitHub repository](https://github.com/toddhollon/srh_cnn)] [[video](https://labblog.uofmhealth.org/health-tech/artificial-intelligence-improves-brain-tumor-diagnosis?utm_source=youtube&utm_medium=organic&utm_campaign=ai_neuro&utm_content=labblog)]
+- Yogananda CGB et al. A novel fully automated MRI-based deep-learning method for classification of IDH mutation status in brain gliomas. Neuro-Oncology 2020;22(3):402–411. [[link](https://watermark.silverchair.com/noz199.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM_l0qCe0X3j7sec-zAgEQgIICd-ksYewnKy45LqXTHXhHOAzzJHK3d4tFLFHnfz8trcRb48Op3XkTRQnJTc68VoXcq-91GkhszdO1gk8fttfzAwFwW5XMt_eLL4rqoKEbl2mNWd3wzyvmluUTIWhhmnLFvEWPTHh6PW1CpBxGu_T3RwFvulqSVi-DWv_K37kCY4DY-5nROmyiX6ZI0G77UhPodnbG0S8LjAz02cK0xfz2fpahloSHSm8TfTzWz_AlUKLJEKmdNMVQuy9x7uhAHVYQwf_sS6Q2gAz09ETmmfO3DzwPA34F_ss3vszaphRudvW1aMteB9K6eqWYmqOiMfI4r8LFM_fzoLzLk9JvtQJv8KjJXkOorVG7oVFh-jiIrOnQgV1IJ0xKYLv1maRksi6J4SmpO0gDY5XXVH8Vih99007mvG_nr-E7UtFz5dUUyzERxW6O_1dvClEjpokBpDP-JBxyOwibwNQobzV8c4sT7n99wIVWOgwwJNEKADqHYECBuEH2wO0NT0_pBlJx0JAJQL8i-dg949euJo_gKqq8DHOymDDkaEd4o-QXgsJ5bMZiZ3iiH-xUAlJsdh2UxLLGCEKezghbLN40_qf_yVhH-NLM_8JbTI-nVuxH2a-dIaHAu0Q_YmHpItMRzBYxNrud99epxTorOe1RgKGhr2Hp8Xb7EGYvJNDC-4ymCTWlB2pET8NudI1e7YZBRH9UDmc6GYJbZnryuYbpWUvR5_rm7FicF8-gysEn9cIVW6vycxsLPompsjQhXrkLJWYOCLBt1P1_blJVk8ASUpzOTPNjhngR4ZfGdgs8_aRF-15kzdsqDA2Id1QqMwZsXRL8PtydJWMP3HXkM3k)]
+- Kickinereer P et al. Automated quantitative tumour response assessment of MRI in neuro-oncology with artificial neural networks: a multicentre, retrospective study. The Lancet Oncology 2019;20(5):728-740. [[link](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(19)30098-1/fulltext)]
+
+**Brain tumors & software** (some pointers for illustration and inspiration )
+
+- Brain Tumor Segmentation | Papers With Code [https://paperswithcode.com/task/brain-tumor-segmentation/latest]
+- Akshay Kumaar M. Brain Tumor Classification (using ResNet50 and Google Colab)  [https://github.com/aksh-ai/brain_tumor_classification]
+- Joohyun Lee. BraTs (Brain Tumor Segmentation) [https://github.com/cv-lee/BraTs]
 
 __________________________________________________________________________<br>
 

@@ -174,7 +174,7 @@ __________________________________________________________________________<br>
 - Tiwari A et al. Brain tumor segmentation and classification from magnetic resonance images: Review of selected methods from 2014 to 2019. Pattern Recognition Letters 2020;131:244-260. [[link](https://www.sciencedirect.com/science/article/pii/S016786551930340X)]
 - Nadeem MW et al. Brain Tumor Analysis Empowered with Deep Learning: A Review, Taxonomy, and Future Challenges. Brain Sci 2020;10(2):118. [[link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7071415)]
 
-- Brain Tumor Segmentation (BraTS) Challenge 2020: Scope  (MICCAI2020) - Center for Biomedical Image Computing & Analytics, Perelman School of Medicine, University of Pennsylvania [[link](https://www.med.upenn.edu/cbica/brats2020)]
+- Brain Tumor Segmentation (BraTS) Challenge 2020: Scope  (MICCAI2020) - Center for Biomedical Image Computing & Analytics, Perelman School of Medicine, University of Pennsylvania [[link](https://www.med.upenn.edu/cbica/brats2020)] [[Data description](https://www.med.upenn.edu/cbica/brats2020/data.html)]
 
 
 **Brain tumors & Artificial intelligence** (some pointers)

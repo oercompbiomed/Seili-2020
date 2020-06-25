@@ -167,7 +167,6 @@ Also, for those of you that have limited knowledge about biology and pathology o
 
 __________________________________________________________________________<br>
 ### Project related
-#Project related references
 
 **Brain tumors & Neuroimaging** (some pointers)
 

@@ -28,7 +28,7 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
  - Sharing of data and code
  - Ethical consideration
 
-__________________________________________________________________<br>
+______________________________________________________________________________<br>
 ### A LaTeX template on Overleaf
 **Group work from [Seili-2019](https://github.com/oercompbiomed/Seili-2019), then focusing on prostate cancer, can be found on Overleaf [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)] and <br>
 on this repo as [[main.tex](./latex-template/main.tex)]  [[fig1](./latex-template/Fig1_The_process_of_autoEncoder.png)] [[fig2](./latex-template/Fig2_Overview_of_the_process.png)] resulting in [[pdf](./latex-template/Seili_2020_project_template.pdf)]**

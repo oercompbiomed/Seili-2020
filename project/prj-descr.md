@@ -29,10 +29,10 @@ The focus of the assignment is **(i)** description of relevant imaging technolog
  - Ethical consideration
 
 __________________________________________________________________<br>
-## A LaTeX template on Overleaf
+### A LaTeX template on Overleaf
 **Group work from [Seili-2019](https://github.com/oercompbiomed/Seili-2019), then focusing on prostate cancer, can be found [[here](https://www.overleaf.com/project/5ec71af71aca320001385354)]**
 
-## Some sources of information  (brain tumors - neuroimaging - AI - software & data)
+### Some sources of information  (brain tumors - neuroimaging - AI - software & data)
 **are listed [here](../README.md#project-related)**
 
 

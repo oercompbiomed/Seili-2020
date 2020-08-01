@@ -68,15 +68,15 @@ your computer for the computational exercises at the Summer School https://rise.
 |**Monday, August 3**|                                                  |               |
 |11:00-12:15 | Motivation lecture (#):                                  |  Join in Zoom |
 |            | Why are computational skills needed in biomedicine?       |                |
-|            | Relevance to uncovering disease mechanisms and for diagnostics |          |
+|            | - Relevance to uncovering disease mechanisms and for diagnostics |          |
 |            | *Arvid Lundervold, University of Bergen*                  |               |
 |            | The Seili-2020 GitHub repository and short review of Jupyter notebooks |     |
 |            | and pre-assignments (with *Peder Lillebostad, Uiniversity of Bergen* |     |
-|12.30-13.30 | Team building activites                                    | Join in Zoom   |
+|12:30-13:30 | Team building activites                                    | Join in Zoom   |
 |            | *Karin Hjernø, University of Southern Denmark, Odense*   |          |
 |            |                                                          |         |
 |**Friday, August 7**|                                                  |               |
-|11.00-12:30 | Follow-up on Jupyter notebooks, pre-assignments, and      | Join in Zoom  |
+|11:00-12:30 | Follow-up on Jupyter notebooks, pre-assignments, and      | Join in Zoom  |
 |           | collaborative writing on Overleaf for group-wise reporting on |         |
 |           | the Summer school project "Precision medicine and quantitative |       |
 |            | imaging in glioblastoma - a multiscale approach"          |          |
@@ -106,14 +106,13 @@ your computer for the computational exercises at the Summer School https://rise.
 |09:00-12:00 | Workshop: Image data analysis - using unsupervised        |  Join in Zoom |
 |            | classification to analyse brain cancer                    |               |
 |            | *Arvid Lundervold, Peder Lillebostad, University of Bergen* |               |
-|13:00-1400  | Workshop: Image data analysis cont. - Deep learning       |  Join in Zoom |
+|13:00-14:00  | Workshop: Image data analysis cont. - Deep learning       |  Join in Zoom |
 |            | *Arvid Lundervold, Peder Lillebostad, University of Bergen* |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Wednesday, August 12**|                                               |               |
 |09:00-12:00 | Workshop: Bioethics                                       |  Join in Zoom |
 |            | *Niklas Juth, Karolinska Institutet, Stockholm*           |               |
-|            | *Juhani Knuuti, University of Turku*                      |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Thursday, August 13**|                                                |               |

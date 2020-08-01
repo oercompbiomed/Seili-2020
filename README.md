@@ -97,7 +97,7 @@ your computer for the computational exercises at the Summer School https://rise.
 |            | *Jussi Tohka, University of Eastern Finland, Kuopio*      |               |
 |10:00-10:30 | Coffee in Coffee Room (Zoom)                              | Join in Zoom  |
 |10:30-11:15 | Brain cancer – clinical aspects                           | Join in Zoom  |
-|            | *Heikki Minn, University and University Hospital, Turku*  | Join in Zoom  |
+|            | *Heikki Minn, University and University Hospital, Turku*  |               |
 |11:15-12:00 | Glioblastoma – molecular mechanisms                       | Join in Zoom  |
 |            | *Maria Gardberg, University and University Hospital, Turku* |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |

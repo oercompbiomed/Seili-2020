@@ -72,7 +72,7 @@ your computer for the computational exercises at the Summer School https://rise.
 |            | *Arvid Lundervold, University of Bergen*                  |               |
 |            | The Seili-2020 GitHub repository and short review of Jupyter notebooks |     |
 |            | and pre-assignments (with *Peder Lillebostad, Uiniversity of Bergen* |     |
-|12:30-13:30 | Team building activites                                    | Join in Zoom   |
+|12:30-13:30 | Team building activites  (5 groups of students assigned on Canvas)  | Join in Zoom   |
 |            | *Karin Hjernø, University of Southern Denmark, Odense*   |          |
 |            |                                                          |         |
 |**Friday, August 7**|                                                  |               |

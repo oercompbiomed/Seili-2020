@@ -60,14 +60,29 @@ A short introduction to programming and how to prepare yourself and
 your computer for the computational exercises at the Summer School https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 
-#### Week 32 (TBC)
-- Why are computational skills needed in biomedicine? - Relevance to uncovering
-disease mechanisms and for diagnostics (*Arvid Lundervold, University of Bergen*) - motivational [[slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit#slide=id.g57a88c4dbd_2_90)] from the previous Summer School at [Seili 2019](https://github.com/oercompbiomed/Seili-2019)
+#### Preparation Week: 3rd – 7th of August 2020 (NB – time is given in CET):<br>
 
-- Review of pre-assignments - Jupyter notebooks, on tools and data repositories
-(*Arvid Lundervold, Peder Lillebostad, University of Bergen*)
 
-- Team building activities (*Karin Hjernø, University of Southern Denmark*)
+| Time       |  Activity                                                 |    Zoom       |
+|------------|-----------------------------------------------------------|---------------|
+|**Monday, August 3**|                                                  |               |
+|11:00-12:15 | Motivation lecture (#):                                  |  Join in Zoom |
+|            | Why are computational skills needed in biomedicine?       |                |
+|            | Relevance to uncovering disease mechanisms and for diagnostics |          |
+|            | *Arvid Lundervold, University of Bergen*                  |               |
+|            | The Seili-2020 GitHub repository and short review of Jupyter notebooks |     |
+|            | and pre-assignments (with *Peder Lillebostad, Uiniversity of Bergen* |     |
+|12.30-13.30 | Team building activites                                    | Join in Zoom   |
+|            | *Karin Hjernø, University of Southern Denmark, Odense*   |          |
+|            |                                                          |         |
+|**Friday, August 7**|                                                  |               |
+|11.00-12:30 | Follow-up on Jupyter notebooks, pre-assignments, and      | Join in Zoom  |
+|           | collaborative writing on Overleaf for group-wise reporting on |         |
+|           | the Summer school project "Precision medicine and quantitative |       |
+|            | imaging in glioblastoma - a multiscale approach"          |          |
+|            | *Arvid Lundervold & Peder Lillebostad, University of Bergen*  |               |
+
+(#) Motivational [[slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit#slide=id.g57a88c4dbd_2_90)] from the previous Summer School at [Seili 2019](https://github.com/oercompbiomed/Seili-2019)
 
 
 #### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):<br>

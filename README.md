@@ -66,8 +66,8 @@ your computer for the computational exercises at the Summer School https://rise.
 | Time       |  Activity                                                 |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
 |**Monday, August 3**|                                                  |               |
-|11:00-12:15 | Motivation lecture (#):                                  |  Join in Zoom |
-|            | Why are computational skills needed in biomedicine?       |                |
+|11:00-12:15 | Motivation lecture:  [[slides](https://docs.google.com/presentation/d/e/2PACX-1vS_bOcV03UCLIdJe6LRDcJVXx4l3PzfP0hktWzgMwe9yalNciQjLP89t-ov-2FQ1Gwnn9rH4zHAture/pub?start=false&loop=false&delayms=3000)]               |  Join in Zoom |
+|            | Why are computational skills needed in biomedicine?      |               |
 |            | - Relevance to uncovering disease mechanisms and for diagnostics |          |
 |            | *Arvid Lundervold, University of Bergen*                  |               |
 |            | The Seili-2020 GitHub repository and short review of Jupyter notebooks |     |
@@ -81,8 +81,6 @@ your computer for the computational exercises at the Summer School https://rise.
 |           | the Summer school project "Precision medicine and quantitative |       |
 |            | imaging in glioblastoma - a multiscale approach"          |          |
 |            | *Arvid Lundervold & Peder Lillebostad, University of Bergen*  |               |
-
-(#) Motivational [[slides](https://docs.google.com/presentation/d/1srqlU0Kk3NlfTV91haD1pgaOm08VvSndPULtYaq3gQg/edit#slide=id.g57a88c4dbd_2_90)] from the previous Summer School at [Seili 2019](https://github.com/oercompbiomed/Seili-2019)
 
 
 #### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):<br>

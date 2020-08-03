@@ -66,7 +66,7 @@ your computer for the computational exercises at the Summer School https://rise.
 | Time       |  Activity                                                 |    Zoom       |
 |------------|-----------------------------------------------------------|---------------|
 |**Monday, August 3**|                                                  |               |
-|11:00-12:15 | Motivation lecture [[slides](https://docs.google.com/presentation/d/e/2PACX-1vS_bOcV03UCLIdJe6LRDcJVXx4l3PzfP0hktWzgMwe9yalNciQjLP89t-ov-2FQ1Gwnn9rH4zHAture/pub?start=false&loop=false&delayms=3000)] :              |  Join in Zoom |
+|11:00-12:15 | Motivation lecture [[slides](https://docs.google.com/presentation/d/e/2PACX-1vS_bOcV03UCLIdJe6LRDcJVXx4l3PzfP0hktWzgMwe9yalNciQjLP89t-ov-2FQ1Gwnn9rH4zHAture/pub?start=false&loop=false&delayms=3000)] [[recording](https://drive.google.com/file/d/1EVYcT4oJpK8MPR4iwAIFt4hP9FSSAUP-/view?usp=sharing)] :              |  Join in Zoom |
 |            | Why are computational skills needed in biomedicine?      |               |
 |            | - relevance to uncovering disease mechanisms and for diagnostics |          |
 |            | *Arvid Lundervold, University of Bergen*                  |               |

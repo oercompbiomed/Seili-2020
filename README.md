@@ -211,11 +211,15 @@ __________________________________________________________________________<br>
 - Lundervold AS, Lundervold A. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik. 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)] [[pdf](https://reader.elsevier.com/reader/sd/pii/S0939388918301181?token=F0F5572A8CA576BB20A27E381932486EAD2ECEAA5FEE098EAE183438F8BA7A989E8046160DDE10526E3698BD6D27784A)]
 
 
-**Ethics of artificial intelligence** (some pointers)
+**Ethics of artificial intelligence and machine learning** (some pointers)
 - Wikipedia [https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence]
 - Rigby MJ. Ethical Dimensions of Using Artificial Intelligence in Health Care. AMA Journal of Ethics, Feb 2019 [https://journalofethics.ama-assn.org/article/ethical-dimensions-using-artificial-intelligence-health-care/2019-02]
 - Morley J, Machado C, Burr C et al. The Debate on the Ethics of AI in Health Care: A Reconstruction and Critical Review (November 13, 2019). [https://ssrn.com/abstract=3486518]
-- 
+- Bostrom N, Yudkowsky E. The Ethics of Artificial Intelligence. In Frankish K, Ramsey W (ed) Cambridge Handbook of Artificial Intelligence, CUP 2014   [https://intelligence.org/files/EthicsofAI.pdf]
+- Ethics of Artificial Intelligence and Robotics. First published Apr 30, 2020. Stanford Encyclopedia of Philosophy [https://plato.stanford.edu/entries/ethics-ai]
+- Gibney W. The battle for ethical AI at the world’s biggest machine-learning conference. Nature news 20 Jan 2020 [https://www.nature.com/articles/d41586-020-00160-y]
+- Ethics of AI in Radiology. European and North America Multisociety Statement 2019 [https://www.acr.org/-/media/ACR/Files/Informatics/Ethics-of-AI-in-Radiology-European-and-North-American-Multisociety-Statement--6-13-2019.pdf]
+- Vollmer S, Mateen BA, Bohner G et al. Machine learning and artificial intelligence research for patient benefit: 20 critical questions on transparency, replicability, ethics, and effectiveness. BMJ 2020;368. [https://www.bmj.com/content/368/bmj.l6927]
 
 
 __________________________________________________________________________<br>

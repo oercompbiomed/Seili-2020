@@ -201,7 +201,7 @@ __________________________________________________________________________<br>
 - Yogananda CGB et al. A novel fully automated MRI-based deep-learning method for classification of IDH mutation status in brain gliomas. Neuro-Oncology 2020;22(3):402–411. [[link](https://watermark.silverchair.com/noz199.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM_l0qCe0X3j7sec-zAgEQgIICd-ksYewnKy45LqXTHXhHOAzzJHK3d4tFLFHnfz8trcRb48Op3XkTRQnJTc68VoXcq-91GkhszdO1gk8fttfzAwFwW5XMt_eLL4rqoKEbl2mNWd3wzyvmluUTIWhhmnLFvEWPTHh6PW1CpBxGu_T3RwFvulqSVi-DWv_K37kCY4DY-5nROmyiX6ZI0G77UhPodnbG0S8LjAz02cK0xfz2fpahloSHSm8TfTzWz_AlUKLJEKmdNMVQuy9x7uhAHVYQwf_sS6Q2gAz09ETmmfO3DzwPA34F_ss3vszaphRudvW1aMteB9K6eqWYmqOiMfI4r8LFM_fzoLzLk9JvtQJv8KjJXkOorVG7oVFh-jiIrOnQgV1IJ0xKYLv1maRksi6J4SmpO0gDY5XXVH8Vih99007mvG_nr-E7UtFz5dUUyzERxW6O_1dvClEjpokBpDP-JBxyOwibwNQobzV8c4sT7n99wIVWOgwwJNEKADqHYECBuEH2wO0NT0_pBlJx0JAJQL8i-dg949euJo_gKqq8DHOymDDkaEd4o-QXgsJ5bMZiZ3iiH-xUAlJsdh2UxLLGCEKezghbLN40_qf_yVhH-NLM_8JbTI-nVuxH2a-dIaHAu0Q_YmHpItMRzBYxNrud99epxTorOe1RgKGhr2Hp8Xb7EGYvJNDC-4ymCTWlB2pET8NudI1e7YZBRH9UDmc6GYJbZnryuYbpWUvR5_rm7FicF8-gysEn9cIVW6vycxsLPompsjQhXrkLJWYOCLBt1P1_blJVk8ASUpzOTPNjhngR4ZfGdgs8_aRF-15kzdsqDA2Id1QqMwZsXRL8PtydJWMP3HXkM3k)]
 - Kickinereer P et al. Automated quantitative tumour response assessment of MRI in neuro-oncology with artificial neural networks: a multicentre, retrospective study. The Lancet Oncology 2019;20(5):728-740. [[link](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(19)30098-1/fulltext)]
 
-**Brain tumors & software and data** (some pointers for illustration and inspiration )
+**Brain tumors & software and data** (some pointers for illustration and inspiration)
 
 - Brain Tumor Segmentation | Papers With Code [https://paperswithcode.com/task/brain-tumor-segmentation/latest]
 - Akshay Kumaar M. Brain Tumor Classification (using ResNet50 and Google Colab)  [https://github.com/aksh-ai/brain_tumor_classification]
@@ -209,6 +209,14 @@ __________________________________________________________________________<br>
 - Bakas S et al. Advancing The Cancer Genome Atlas glioma MRI collections with expert segmentation labels and radiomic features. Scientific Data 2017;4, Article number: 170117 [https://www.nature.com/articles/sdata2017117] [[pdf](https://www.nature.com/articles/sdata2017117.pdf)]<br>
 *Excerpt*: Considering the value of big data and the potential of publicly available datasets for increased reproducibility of scientific findings, the National Cancer Institute (NCI) of the National Institutes of Health (NIH) created TCGA ([cancergenome.nih.gov](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)) and [TCIA](https://link.springer.com/article/10.1007/s10278-013-9622-7) (www.cancerimagingarchive.net). TCGA is a multi-institutional comprehensive collection of various molecularly characterized tumor types, and its data are available in NCI’s Genomic Data Commons portal ([gdc-portal.nci.nih.gov](https://portal.gdc.cancer.gov)). Building upon NIH’s investment in TCGA, the NCI’s Cancer Imaging Program approached sites that contributed tissue samples, to obtain corresponding de-identified routine clinically-acquired radiological data and store them in TCIA. These repositories make available multi-institutional, high-dimensional, multi-parametric data of cancer patients, allowing for radiogenomic analysis. 
 - Lundervold AS, Lundervold A. An overview of deep learning in medical imaging focusing on MRI. Zeitschrift fur Medizinische Physik. 2019;29(2):102-127. [[link](https://www.sciencedirect.com/science/article/pii/S0939388918301181)] [[pdf](https://reader.elsevier.com/reader/sd/pii/S0939388918301181?token=F0F5572A8CA576BB20A27E381932486EAD2ECEAA5FEE098EAE183438F8BA7A989E8046160DDE10526E3698BD6D27784A)]
+
+
+**Ethics of artificial intelligence** (some pointers)
+- Wikipedia [https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence]
+- Rigby MJ. Ethical Dimensions of Using Artificial Intelligence in Health Care. AMA Journal of Ethics, Feb 2019 [https://journalofethics.ama-assn.org/article/ethical-dimensions-using-artificial-intelligence-health-care/2019-02]
+- Morley J, Machado C, Burr C et al. The Debate on the Ethics of AI in Health Care: A Reconstruction and Critical Review (November 13, 2019). [https://ssrn.com/abstract=3486518]
+- 
+
 
 __________________________________________________________________________<br>
 

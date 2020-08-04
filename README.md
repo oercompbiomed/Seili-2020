@@ -219,7 +219,7 @@ __________________________________________________________________________<br>
 - Ethics of Artificial Intelligence and Robotics. First published Apr 30, 2020. Stanford Encyclopedia of Philosophy [https://plato.stanford.edu/entries/ethics-ai]
 - Gibney W. The battle for ethical AI at the world’s biggest machine-learning conference. Nature news 20 Jan 2020 [https://www.nature.com/articles/d41586-020-00160-y]
 - Ethics of AI in Radiology. European and North America Multisociety Statement 2019 [https://www.acr.org/-/media/ACR/Files/Informatics/Ethics-of-AI-in-Radiology-European-and-North-American-Multisociety-Statement--6-13-2019.pdf]
-- Vollmer S, Mateen BA, Bohner G et al. Machine learning and artificial intelligence research for patient benefit: 20 critical questions on transparency, replicability, ethics, and effectiveness. BMJ 2020;368. [https://www.bmj.com/content/368/bmj.l6927]
+- Vollmer S, Mateen BA, Bohner G et al. Machine learning and artificial intelligence research for patient benefit: 20 critical questions on transparency, replicability, ethics, and effectiveness. BMJ 2020;368:l6927. [https://www.bmj.com/content/368/bmj.l6927]
 
 
 __________________________________________________________________________<br>

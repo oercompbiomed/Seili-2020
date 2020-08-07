@@ -79,7 +79,7 @@ your computer for the computational exercises at the Summer School https://rise.
 |11:00-12:30 | Follow-up on Jupyter notebooks, pre-assignments, and      | Join in Zoom  |
 |           | collaborative writing on Overleaf for group-wise reporting on |         |
 |           | the Summer school project "Precision medicine and quantitative |       |
-|            | imaging in glioblastoma - a multiscale approach"          |          |
+|            | imaging in glioblastoma - a multiscale approach"  [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSSlP3xITYws_qdTqr5uLyOqG2W_HoJNanPYuk8T0bFa_wa3dJM5jPQFlsna2bCZXp2OaIo9d-7HTH-/pub?start=false&loop=false&delayms=3000)]        |          |
 |            | *Arvid Lundervold & Peder Lillebostad, University of Bergen*  |               |
 
 

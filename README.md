@@ -80,7 +80,7 @@ your computer for the computational exercises at the Summer School https://rise.
 |           | collaborative writing on Overleaf for group-wise reporting on |         |
 |           | the Summer school project "Precision medicine and quantitative |       |
 |            | imaging in glioblastoma - a multiscale approach"  [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSSlP3xITYws_qdTqr5uLyOqG2W_HoJNanPYuk8T0bFa_wa3dJM5jPQFlsna2bCZXp2OaIo9d-7HTH-/pub?start=false&loop=false&delayms=3000)]  [[recordning](https://drive.google.com/file/d/1aFKZ8KWNDfZowWbIrvtY-x5lN9J-tV0K/view?usp=sharing)]       |          |
-|            | *Arvid Lundervold & Peder Lillebostad, University of Bergen*  |               |
+|            | *Peder Lillebostad & Arvid Lundervold, University of Bergen*  |               |
 
 
 #### Intensive week 10th – 14th of August 2020 (NB – time is given in CET):<br>

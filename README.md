@@ -104,9 +104,9 @@ your computer for the computational exercises at the Summer School https://rise.
 |09:00-12:00 | Workshop: Image data analysis - using unsupervised        |  Join in Zoom |
 |            | classification to analyse brain cancer  &                   |               |
 |            | Neural networks in man and machine [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQsnIaPS6NSfKBm6RAZnMcibfLewWT9C4n4UjaJhuht_we6tgVpN052ZhzuoHZpSODiFUbDsf9pcmXM/pub?start=false&loop=false&delayms=3000)]      |               |
-|            | *Arvid Lundervold, Peder Lillebostad, University of Bergen* |               |
+|            | *Arvid Lundervold / Peder Lillebostad, University of Bergen* |               |
 |13:00-14:00  | Workshop: Image data analysis cont. - Deep learning       |  Join in Zoom |
-|            | *Peder Lillebostad, Arvid Lundervold, University of Bergen* |               |
+|            | *Peder Lillebostad / Arvid Lundervold, University of Bergen* |               |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Wednesday, August 12**|                                               |               |

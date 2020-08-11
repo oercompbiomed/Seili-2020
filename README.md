@@ -106,7 +106,7 @@ your computer for the computational exercises at the Summer School https://rise.
 |            | Unsupervised image classification to analyse brain cancer [[slides](https://docs.google.com/presentation/d/e/2PACX-1vRFPferC_QH6LSC-SKDphXjAdNB0O67oDg-B7dtg_YOie6foM39UHijs9XfhNDF-hwBXYbtaOcI-8SV/pub?start=false&loop=false&delayms=3000)]  &                   |               |
 |            | Neural networks in man and machine [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQsnIaPS6NSfKBm6RAZnMcibfLewWT9C4n4UjaJhuht_we6tgVpN052ZhzuoHZpSODiFUbDsf9pcmXM/pub?start=false&loop=false&delayms=3000)]      |               |
 |            | *Arvid Lundervold / Peder Lillebostad, University of Bergen* |               |
-|13:00-14:00  | Workshop: Image data analysis cont. - Deep learning [recording]      |  Join in Zoom |
+|13:00-14:00  | Workshop: Image data analysis cont. - Deep learning [recording](https://drive.google.com/file/d/1c9tUov2yFSbvjhaAyl9RFv-urQVhR0EK/view?usp=sharing)]      |  Join in Zoom |
 |            | *Peder Lillebostad / Arvid Lundervold, University of Bergen* |               |
 |             | See also the Kubiac's:                            |         |
 |            |*Neural networks tutorial for medical image analysis* [[here](https://github.com/Hierakonpolis/NN4Kubiac)] |   |

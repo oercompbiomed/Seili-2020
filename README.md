@@ -108,7 +108,7 @@ your computer for the computational exercises at the Summer School https://rise.
 |            | *Arvid Lundervold / Peder Lillebostad, University of Bergen* |               |
 |13:00-14:00  | Workshop: Image data analysis cont. - Deep learning [[recording](https://drive.google.com/file/d/1c9tUov2yFSbvjhaAyl9RFv-urQVhR0EK/view?usp=sharing)]      |  Join in Zoom |
 |            | *Peder Lillebostad / Arvid Lundervold, University of Bergen* |               |
-|             | See also the Kubiac's:                            |         |
+|             | See also the [KUBIAC](https://blogs.uef.fi/kubiac)'s:                            |         |
 |            |*Neural networks tutorial for medical image analysis* [[here](https://github.com/Hierakonpolis/NN4Kubiac)] |   |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |

@@ -101,7 +101,8 @@ your computer for the computational exercises at the Summer School https://rise.
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Tuesday, August 11**|                                                 |               |
-|09:00-12:00 | Workshop: Machine learning notebook walkthrougs by Peder [[rec1](https://drive.google.com/file/d/1bn6nV7Lsi9OHkS2RHuhFU7ABSyuzDdKr/view?usp=sharing)] [[rec2]] [rec3]]      |  Join in Zoom |
+|09:00-12:00 | Workshop: Machine learning notebook walkthrougs by Peder      |  Join in Zoom |
+|           | [[recording 1](https://drive.google.com/file/d/1bn6nV7Lsi9OHkS2RHuhFU7ABSyuzDdKr/view?usp=sharing)] [[recording 2](https://drive.google.com/file/d/1jqJ8X01H7BuwsudeipPd0kicyzc_dHfS/view?usp=sharing)] [recording 3](https://drive.google.com/file/d/1pciRGPVmQmlHYxpgcAumPBrPs0nOH7cF/view?usp=sharing)] |        |
 |            | Unsupervised image classification to analyse brain cancer [[slides](https://docs.google.com/presentation/d/e/2PACX-1vRFPferC_QH6LSC-SKDphXjAdNB0O67oDg-B7dtg_YOie6foM39UHijs9XfhNDF-hwBXYbtaOcI-8SV/pub?start=false&loop=false&delayms=3000)]  &                   |               |
 |            | Neural networks in man and machine [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQsnIaPS6NSfKBm6RAZnMcibfLewWT9C4n4UjaJhuht_we6tgVpN052ZhzuoHZpSODiFUbDsf9pcmXM/pub?start=false&loop=false&delayms=3000)]      |               |
 |            | *Arvid Lundervold / Peder Lillebostad, University of Bergen* |               |

@@ -79,7 +79,7 @@ your computer for the computational exercises at the Summer School https://rise.
 |11:00-12:30 | Follow-up on Jupyter notebooks, pre-assignments [[recording](https://drive.google.com/file/d/1MU0Ki_V9NqTRDTyYI-SVNTK3WTxwzilI/view?usp=sharing)] and      | Join in Zoom  |
 |           | collaborative writing on Overleaf for group-wise reporting on |         |
 |           | the Summer school project "Precision medicine and quantitative |       |
-|            | imaging in glioblastoma - a multiscale approach"  [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSSlP3xITYws_qdTqr5uLyOqG2W_HoJNanPYuk8T0bFa_wa3dJM5jPQFlsna2bCZXp2OaIo9d-7HTH-/pub?start=false&loop=false&delayms=3000)]  [[recordning](https://drive.google.com/file/d/1aFKZ8KWNDfZowWbIrvtY-x5lN9J-tV0K/view?usp=sharing)]       |          |
+|            | imaging in glioblastoma - a multiscale approach"  [[slides](https://docs.google.com/presentation/d/e/2PACX-1vSSlP3xITYws_qdTqr5uLyOqG2W_HoJNanPYuk8T0bFa_wa3dJM5jPQFlsna2bCZXp2OaIo9d-7HTH-/pub?start=false&loop=false&delayms=3000)]  [[recording](https://drive.google.com/file/d/1aFKZ8KWNDfZowWbIrvtY-x5lN9J-tV0K/view?usp=sharing)]       |          |
 |            | *Peder Lillebostad & Arvid Lundervold, University of Bergen*  |               |
 
 
@@ -101,11 +101,11 @@ your computer for the computational exercises at the Summer School https://rise.
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
 |            |                                                           |               |
 |**Tuesday, August 11**|                                                 |               |
-|09:00-12:00 | Workshop: Image data analysis - using unsupervised        |  Join in Zoom |
-|            | classification to analyse brain cancer [[slides](https://docs.google.com/presentation/d/e/2PACX-1vRFPferC_QH6LSC-SKDphXjAdNB0O67oDg-B7dtg_YOie6foM39UHijs9XfhNDF-hwBXYbtaOcI-8SV/pub?start=false&loop=false&delayms=3000)]  &                   |               |
+|09:00-12:00 | Workshop: Machine learning notebook walkthrougs by Peder [[rec1](https://drive.google.com/file/d/1bn6nV7Lsi9OHkS2RHuhFU7ABSyuzDdKr/view?usp=sharing)] [[rec2]] [rec3]]      |  Join in Zoom |
+|            | Unsupervised image classification to analyse brain cancer [[slides](https://docs.google.com/presentation/d/e/2PACX-1vRFPferC_QH6LSC-SKDphXjAdNB0O67oDg-B7dtg_YOie6foM39UHijs9XfhNDF-hwBXYbtaOcI-8SV/pub?start=false&loop=false&delayms=3000)]  &                   |               |
 |            | Neural networks in man and machine [[slides](https://docs.google.com/presentation/d/e/2PACX-1vQsnIaPS6NSfKBm6RAZnMcibfLewWT9C4n4UjaJhuht_we6tgVpN052ZhzuoHZpSODiFUbDsf9pcmXM/pub?start=false&loop=false&delayms=3000)]      |               |
 |            | *Arvid Lundervold / Peder Lillebostad, University of Bergen* |               |
-|13:00-14:00  | Workshop: Image data analysis cont. - Deep learning       |  Join in Zoom |
+|13:00-14:00  | Workshop: Image data analysis cont. - Deep learning [recording]      |  Join in Zoom |
 |            | *Peder Lillebostad / Arvid Lundervold, University of Bergen* |               |
 |             | See also the Kubiac's *Neural networks tutorial for medical image analysis* [[here](https://github.com/Hierakonpolis/NN4Kubiac)] |   |
 | Afternoon  | Project work in teams                                     | Join in Zoom  |
